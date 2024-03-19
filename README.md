@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="200" src="https://cdn.discordapp.com/attachments/1051737028003373146/1219752767632048128/Group_37040.png?ex=660c7249&is=65f9fd49&hm=0a3bda44cdfbeaf3d9f1bb98da8aba2b72c5e56b19581f540c41b9088ee6f51c&"  />
+  <img height="200" src="https://cdn.discordapp.com/attachments/1051737028003373146/1219762985808167002/Group_37040_1.png?ex=660c7bcd&is=65fa06cd&hm=c6fa83c7b306d6ba7f57a6c0f2e7558951181423d439801e6c73fc19d20bfae6&"  />
 </div>
 
 ###
@@ -21,6 +21,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo" />
   </a>
 </div>
+
 
 ###
 
@@ -79,9 +80,7 @@
   <img width="12" />
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" height="40" alt="docker logo"  />
   <img width="12" />
-  <a href="https://github.com/olivia-sk" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="40" alt="github logo"  />
-  </a>
   <img width="12" />
   <img src="https://img.shields.io/badge/Android Studio-3DDC84?logo=androidstudio&logoColor=black&style=for-the-badge" height="40" alt="androidstudio logo"  />
 </div>
