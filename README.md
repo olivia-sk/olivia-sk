@@ -10,14 +10,14 @@
 
 ###
 
-<p align="left">As a Product Designer, my expertise lies in crafting designs that are both aesthetically pleasing and easy to use, leveraging tools such as Figma, Illustrator, InDesign, and Photoshop. I'm dedicated to ensuring that my designs are inclusive, promote equality, and are universally accessible, making sure they cater to a diverse range of users. My approach is people-centered, focusing on creating experiences that are not only effective but also resonate on a personal level with users.<br><br>Beyond design, I delve into the realm of development, where I apply my understanding of user experience to build functional prototypes to bring my designs to life. This intersection of design and development enables me to ensure that the final product not only looks great but also works seamlessly across different platforms and devices. I'm constantly exploring new technologies and methodologies to enhance my skills and contribute to creating more inclusive and impactful digital solutions.</p>
+<p align="center">As a Product Designer, my expertise lies in crafting designs that are both aesthetically pleasing and easy to use, leveraging tools such as Figma, Illustrator, InDesign, and Photoshop. I'm dedicated to ensuring that my designs are inclusive, promote equality, and are universally accessible, making sure they cater to a diverse range of users. My approach is people-centered, focusing on creating experiences that are not only effective but also resonate on a personal level with users.<br><br>Beyond design, I delve into the realm of development, where I apply my understanding of user experience to build functional prototypes to bring my designs to life. This intersection of design and development enables me to ensure that the final product not only looks great but also works seamlessly across different platforms and devices. I'm constantly exploring new technologies and methodologies to enhance my skills and contribute to creating more inclusive and impactful digital solutions.</p>
 
 ###
 
 <br clear="both">
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/oliviaskfong">
+  <a href="https://www.linkedin.com/in/oliviaskfong" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo" />
   </a>
 </div>
@@ -79,7 +79,9 @@
   <img width="12" />
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" height="40" alt="docker logo"  />
   <img width="12" />
+  <a href="https://github.com/olivia-sk" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="40" alt="github logo"  />
+  </a>
   <img width="12" />
   <img src="https://img.shields.io/badge/Android Studio-3DDC84?logo=androidstudio&logoColor=black&style=for-the-badge" height="40" alt="androidstudio logo"  />
 </div>
