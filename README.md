@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="200" src="https://cdn.discordapp.com/attachments/1051737028003373146/1219764128785240144/Group_37040_2.png?ex=660c7cde&is=65fa07de&hm=30965f96e3afa212180494884be1e2e8abd40c79971ee558df25695286f3cee0&"  />
+  <img height="200" src="https://cdn.discordapp.com/attachments/1051737028003373146/1219752767632048128/Group_37040.png?ex=660c7249&is=65f9fd49&hm=0a3bda44cdfbeaf3d9f1bb98da8aba2b72c5e56b19581f540c41b9088ee6f51c&"  />
 </div>
 
 ###
