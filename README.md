@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="200" src="https://cdn.discordapp.com/attachments/1051737028003373146/1219762985808167002/Group_37040_1.png?ex=660c7bcd&is=65fa06cd&hm=c6fa83c7b306d6ba7f57a6c0f2e7558951181423d439801e6c73fc19d20bfae6&"  />
+  <img height="200" src="https://cdn.discordapp.com/attachments/1051737028003373146/1219764128785240144/Group_37040_2.png?ex=660c7cde&is=65fa07de&hm=30965f96e3afa212180494884be1e2e8abd40c79971ee558df25695286f3cee0&"  />
 </div>
 
 ###
@@ -21,6 +21,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo" />
   </a>
 </div>
+
 
 ###
 
