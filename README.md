@@ -16,14 +16,14 @@
 
 <br clear="both">
 
-<a href="https://www.linkedin.com/in/oliviaskfong" target="_blank">
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo"  />
+<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 20px;">
+  <a href="https://www.linkedin.com/in/oliviaskfong" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo" />
+  </a>
+  <a href="https://oliviask.com" target="_blank">
+    <img src="https://img.shields.io/badge/-My%20Portfolio-%2386A96F?style=for-the-badge&logo=appveyor&logoColor=white" alt="My Portfolio" />
+  </a>
 </div>
-</a>
-
-[![My Portfolio](https://img.shields.io/badge/-My%20Portfolio-green?style=for-the-badge&logo=appveyor&logoColor=white)](https://oliviask.com)
-
 
 ###
 
