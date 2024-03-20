@@ -28,7 +28,7 @@
 
 ###
 
-<h2 align="center">Tools & Languages</h2>
+<h2 align="center">Tools & Languages ⚙️</h2>
 
 ###
 
