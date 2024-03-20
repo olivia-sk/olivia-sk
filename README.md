@@ -20,6 +20,7 @@
   <a href="https://www.linkedin.com/in/oliviaskfong" target="_blank">
     <img src="https://img.shields.io/badge/my%20linkedin%20-blue?style=for-the-badge&logo=linkedin" alt="my linkedin" />
   </a>
+  
   <a href="https://oliviask.com" target="_blank">
     <img src="https://img.shields.io/badge/-My%20Portfolio-%2386A96F?style=for-the-badge" alt="my portfolio" />
   </a>
