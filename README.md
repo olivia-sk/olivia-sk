@@ -22,7 +22,9 @@
 </div>
 </a>
 
+<div align="center">
 [![My Portfolio](https://img.shields.io/badge/-My%20Portfolio-green?style=for-the-badge&logo=appveyor&logoColor=white)](https://oliviask.com)
+</div>
 
 
 ###
