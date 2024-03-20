@@ -21,7 +21,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo" />
   </a>
   <a href="https://oliviask.com" target="_blank">
-    <img src="https://img.shields.io/badge/-My%20Portfolio-%2386A96F?style=for-the-badge&logo=appveyor&logoColor=white" alt="My Portfolio" />
+    <img src="https://img.shields.io/badge/-My%20Portfolio-%2386A96F?style=for-the-badge" alt="My Portfolio" />
   </a>
 </div>
 
