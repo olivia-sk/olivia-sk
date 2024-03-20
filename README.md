@@ -10,7 +10,7 @@
 
 ###
 
-<p align="center">As a Product Designer, my expertise lies in crafting designs that are both aesthetically pleasing and easy to use, leveraging tools such as Figma, Illustrator, InDesign, and Photoshop. I'm dedicated to ensuring that my designs are inclusive, promote equality, and are universally accessible, making sure they cater to a diverse range of users. My approach is people-centered, focusing on creating experiences that are not only effective but also resonate on a personal level with users.<br><br>Beyond design, I apply my understanding of user experience to create functional prototypes that bring my designs to life. This intersection of design and development ensures that the final product not only looks great but also works seamlessly across different platforms and devices. I am always exploring new technologies and methodologies to enhance my skills and contribute to creating inclusive and impactful digital solutions.</p>
+<h2>I specialize in Product and UX Design with a passion for coding on the side</h2>
 
 ###
 
