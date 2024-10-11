@@ -2,8 +2,6 @@
 
 <h1 align="center">Hello, I'm Olivia 👋🍵</h1>
 
-###
-
 <h2 align="center">I specialize in Product & UX Design with a passion for coding on the side</h2>
 
 
