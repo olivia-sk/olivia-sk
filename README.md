@@ -1,11 +1,5 @@
 <br clear="both">
 
-<div align="center">
-  <img height="200" src="https://avatars.githubusercontent.com/u/113372869?s=400&u=28afd7611566dff7e572088edff9b28b45aff29f&v=4"  />
-</div>
-
-###
-
 <h1 align="center">Hello, I'm Olivia 👋🍵</h1>
 
 ###
