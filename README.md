@@ -39,6 +39,8 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=pr" height="40" alt="adobepremierepro logo"  />
   <img width="12" />
+  <img src="https://cdn.prod.website-files.com/63c6a35ee97bea3e121bf3f4/65ba74ce20f7c87960a872cb_64631e51d10baae4dab60132_2.webp" height="40" alt="framer logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=webflow" height="40" alt="webflow logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=wordpress" height="40" alt="wordpress logo"  />
