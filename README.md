@@ -1,14 +1,14 @@
 <br clear="both">
 
-<h1 align="center">Hello, I'm Olivia 👋🍵</h1>
+<h1 align="left">hi, i'm olivia 👋🍵</h1>
 
-<h2 align="center">I specialize in Product & UX Design with a passion for coding on the side</h2>
+<h2 align="left">i am a full-stack designer focusing in product & ux</h2>
 
 
 
 <br clear="both">
 
-<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 20px;">
+<div align="left" style="display: flex; align-items: center; justify-content: center; gap: 20px;">
   <a href="https://www.linkedin.com/in/oliviaskfong" target="_blank">
     <img src="https://img.shields.io/badge/my%20linkedin%20-blue?style=for-the-badge&logo=linkedin" alt="my linkedin" />
   </a>
@@ -20,11 +20,11 @@
 
 ###
 
-<h2 align="center">Tools & Languages ⚙️</h2>
+<h2 align="left">tools & languages ⚙️</h2>
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://skillicons.dev/icons?i=ai" height="40" alt="adobeillustrator logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo"  />
@@ -46,7 +46,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="30" alt="javascript logo"  />
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="30" alt="html5 logo"  />
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" height="30" alt="css3 logo"  />
@@ -65,16 +65,3 @@
   <img src="https://img.shields.io/badge/Android Studio-3DDC84?logo=androidstudio&logoColor=black&style=for-the-badge" height="30" alt="androidstudio logo"  />
 </div>
 
-###
-
-<h2 align="center">My Github Stats ✨</h2>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=olivia-sk&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=graywhite&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=olivia-sk&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=graywhite&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=olivia-sk&locale=en&mode=daily&theme=graywhite&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
-
-###
