@@ -33,6 +33,8 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=blender" height="40" alt="blender logo"  />
   <img width="12" />
+  <img src="https://cdn.prod.website-files.com/5fcde6f56fdac5414b34eeb3/689f0406eedafb5c10d35458_6537a314ae11a28312467d13_new-brand-cover.webp" height="40" alt="shapr3d logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=xd" height="40" alt="xd logo"  />
