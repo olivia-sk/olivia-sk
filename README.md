@@ -1,9 +1,8 @@
 <br clear="both">
 
-<div align="left">
 <h1 align="left">hi, i'm olivia 👋🍵</h1>
 <p align="left">i am a full-stack designer focusing in product & ux</p>
-<div align="left">
+
 
 <br clear="both">
 
